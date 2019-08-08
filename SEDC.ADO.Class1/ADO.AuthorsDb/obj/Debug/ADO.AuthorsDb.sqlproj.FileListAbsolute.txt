@@ -1,0 +1,6 @@
+C:\Users\Bojana\Desktop\sedc7-09-aspnetdatadriven-LAst Class\sedc7-09-aspnetdatadriven-master\g5\ADO.NET\SEDC.ADO.Class1\ADO.AuthorsDb\bin\Debug\ADO.AuthorsDb.dacpac
+C:\Users\Bojana\Desktop\sedc7-09-aspnetdatadriven-LAst Class\sedc7-09-aspnetdatadriven-master\g5\ADO.NET\SEDC.ADO.Class1\ADO.AuthorsDb\bin\Debug\ADO.AuthorsDb.dll
+C:\Users\Bojana\Desktop\sedc7-09-aspnetdatadriven-LAst Class\sedc7-09-aspnetdatadriven-master\g5\ADO.NET\SEDC.ADO.Class1\ADO.AuthorsDb\bin\Debug\ADO.AuthorsDb.pdb
+C:\Users\Bojana\Desktop\sedc7-09-aspnetdatadriven-LAst Class\sedc7-09-aspnetdatadriven-master\g5\ADO.NET\SEDC.ADO.Class1\ADO.AuthorsDb\obj\Debug\ADO.AuthorsDb.sqlprojAssemblyReference.cache
+C:\Users\Bojana\Desktop\sedc7-09-aspnetdatadriven-LAst Class\sedc7-09-aspnetdatadriven-master\g5\ADO.NET\SEDC.ADO.Class1\ADO.AuthorsDb\obj\Debug\ADO.AuthorsDb.dll
+C:\Users\Bojana\Desktop\sedc7-09-aspnetdatadriven-LAst Class\sedc7-09-aspnetdatadriven-master\g5\ADO.NET\SEDC.ADO.Class1\ADO.AuthorsDb\obj\Debug\ADO.AuthorsDb.pdb
